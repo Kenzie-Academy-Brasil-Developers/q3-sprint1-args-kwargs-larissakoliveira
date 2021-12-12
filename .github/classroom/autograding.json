@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Args Kwargs Tests",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vvs",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
